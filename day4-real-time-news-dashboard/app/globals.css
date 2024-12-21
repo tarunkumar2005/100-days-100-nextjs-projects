@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1a365d;
+  --primary-light: #2a4a7f;
+  --secondary: #7f9cf5;
+  --accent: #4fd1c5;
+  --background: #f7fafc;
+  --text: #2d3748;
+}
+
+.glossy {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, var(--primary), var(--primary-light));
+}
