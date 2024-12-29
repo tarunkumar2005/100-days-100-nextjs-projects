@@ -19,3 +19,6 @@
 [submodule "day7-expense-tracker-and-money-transaction"]
 	path = day7-expense-tracker-and-money-transaction
 	url = https://github.com/tarunkumar2005/day7-expense-tracker-and-money-transaction.git
+[submodule "day8-dynamic-event-booking"]
+	path = day8-dynamic-event-booking
+	url = https://github.com/tarunkumar2005/day8-dynamic-event-booking.git
