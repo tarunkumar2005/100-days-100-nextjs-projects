@@ -25,3 +25,6 @@
 [submodule "day9-ai-powered-form-builder-like-google-forms"]
 	path = day9-ai-powered-form-builder-like-google-forms
 	url = https://github.com/tarunkumar2005/day9-ai-powered-form-builder-like-google-forms.git
+[submodule "day10-collobrative-text-editor-web-sockets"]
+	path = day10-collobrative-text-editor-web-sockets
+	url = https://github.com/tarunkumar2005/day10-collobrative-text-editor-web-sockets.git
