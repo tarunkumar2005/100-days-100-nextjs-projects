@@ -13,3 +13,6 @@
 [submodule "day5-movie-ssr-app"]
 	path = day5-movie-ssr-app
 	url = https://github.com/tarunkumar2005/day5-movie-ssr-app.git
+[submodule "day6-ai-image-search-and-captioning"]
+	path = day6-ai-image-search-and-captioning
+	url = https://github.com/tarunkumar2005/day6-ai-image-search-and-captioning.git
