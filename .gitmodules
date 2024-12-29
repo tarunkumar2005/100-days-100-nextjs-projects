@@ -1,3 +1,6 @@
 [submodule "day1-portfolio-website"]
 	path = day1-portfolio-website
 	url = https://github.com/tarunkumar2005/day1-portfolio-website-.git
+[submodule "day2-random-quote-website"]
+	path = day2-random-quote-website
+	url = https://github.com/tarunkumar2005/-day2-random-quote-website-.git
