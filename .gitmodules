@@ -22,3 +22,6 @@
 [submodule "day8-dynamic-event-booking"]
 	path = day8-dynamic-event-booking
 	url = https://github.com/tarunkumar2005/day8-dynamic-event-booking.git
+[submodule "day9-ai-powered-form-builder-like-google-forms"]
+	path = day9-ai-powered-form-builder-like-google-forms
+	url = https://github.com/tarunkumar2005/day9-ai-powered-form-builder-like-google-forms.git
