@@ -7,3 +7,6 @@
 [submodule "day3-real-time-chat-app"]
 	path = day3-real-time-chat-app
 	url = https://github.com/tarunkumar2005/day3-real-time-chat-app.git
+[submodule "day4-real-time-news-dashboard"]
+	path = day4-real-time-news-dashboard
+	url = https://github.com/tarunkumar2005/-day4-real-time-news-dashboard.git
