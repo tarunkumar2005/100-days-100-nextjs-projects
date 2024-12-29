@@ -28,3 +28,6 @@
 [submodule "day10-collobrative-text-editor-web-sockets"]
 	path = day10-collobrative-text-editor-web-sockets
 	url = https://github.com/tarunkumar2005/day10-collobrative-text-editor-web-sockets.git
+[submodule "day11-stock-market-watchlist"]
+	path = day11-stock-market-watchlist
+	url = https://github.com/tarunkumar2005/day11-stock-market-watchlist-.git
