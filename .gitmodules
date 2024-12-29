@@ -10,3 +10,6 @@
 [submodule "day4-real-time-news-dashboard"]
 	path = day4-real-time-news-dashboard
 	url = https://github.com/tarunkumar2005/-day4-real-time-news-dashboard.git
+[submodule "day5-movie-ssr-app"]
+	path = day5-movie-ssr-app
+	url = https://github.com/tarunkumar2005/day5-movie-ssr-app.git
