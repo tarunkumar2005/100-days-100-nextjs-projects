@@ -4,3 +4,6 @@
 [submodule "day2-random-quote-website"]
 	path = day2-random-quote-website
 	url = https://github.com/tarunkumar2005/-day2-random-quote-website-.git
+[submodule "day3-real-time-chat-app"]
+	path = day3-real-time-chat-app
+	url = https://github.com/tarunkumar2005/day3-real-time-chat-app.git
