@@ -34,3 +34,6 @@
 [submodule "day12-ai-powered-blog-editor"]
 	path = day12-ai-powered-blog-editor
 	url = https://github.com/tarunkumar2005/day12-ai-blog-editor
+[submodule "day13-decentralized-twitter-app"]
+	path = day13-decentralized-twitter-app
+	url = https://github.com/tarunkumar2005/day13-decentralized-twitter-app.git
